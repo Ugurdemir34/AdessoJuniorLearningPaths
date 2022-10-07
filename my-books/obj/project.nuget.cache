@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xa5K6lRAF531jwuINbQ7BcX02lvj/zdhnjxASNfZ1k0K4H5Z9vvs5xV7b5ui0fbGYfukehjDlqUZiJAVboSs5w==",
+  "success": true,
+  "projectFilePath": "D:\\VisualStudio2022\\my-books\\my-books\\my-books.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UGUR.DESKTOP-5D8FOCF\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\UGUR.DESKTOP-5D8FOCF\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\UGUR.DESKTOP-5D8FOCF\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\UGUR.DESKTOP-5D8FOCF\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\UGUR.DESKTOP-5D8FOCF\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\UGUR.DESKTOP-5D8FOCF\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\UGUR.DESKTOP-5D8FOCF\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
